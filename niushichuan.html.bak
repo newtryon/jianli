@@ -17,9 +17,6 @@
     <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./CSS/zong.css">
 
-	<link rel="stylesheet" href="./dist/css/bootstrap.min.css">
-	<script type="text/javascript" src="./dist/js/bootstrap.min.js"></script>
-	
   </head>
   
   <body>
